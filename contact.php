@@ -32,7 +32,7 @@
                     </tr>
                     <tr>
                         <th>会社名</th>
-                        <td><input type="text" name="companyName" id="companyName" size="40"></td>
+                        <td><input type="text" name="companyName" id="companyName" size="40" required></td>
                     </tr>
                     <tr>
                         <th>メールアドレス</th>
@@ -40,7 +40,7 @@
                     </tr>
                     <tr>
                         <th>年齢</th>
-                        <td><input type="text" name="age" id="age" size="40"></td>
+                        <td><input type="text" name="age" id="age" size="40" required></td>
                     </tr>
                     <tr> 
                         <th>お問い合わせ内容</th>
